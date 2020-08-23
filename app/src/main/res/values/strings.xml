@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Vuslat Sena EMRE</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+       Hello, I am Vuslat Sena.
+\n\nI am doing this application within the scope of an internship that we have realized for the first time. I am a 3rd grade student in Computer Engineering.
+\n\nAlthough I am new to coding, I really love this job and I believe that I will move myself to a much better point in 1 year.
+\n\nI had the chance to participate in various organizations before. I love traveling, seeing new places and working in a team.
+        \n\n
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
